@@ -35,8 +35,5 @@ public class If {
 		{
 			System.out.println("n1이 n2보다 작다.");
 		}	
-			
-		
-	
 	}
 }
