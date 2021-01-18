@@ -1,7 +1,5 @@
 package com.kita.first.level2;
 
-import java.util.Scanner;
-
 public class Calc {
 	// 필드
 //	static int n1 = 1;
@@ -46,6 +44,4 @@ public class Calc {
 		double result = (double)n1 / n2;
 		return result;
 	} // 나누기
-
-	
 }
