@@ -29,3 +29,4 @@ public class Test{
 //		com.kita.first.level2.pack2.Class1 c2 = new com.kita.first.level2.pack2.Class1();
 	}
 }
+             
