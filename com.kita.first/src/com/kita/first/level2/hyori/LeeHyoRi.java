@@ -37,5 +37,4 @@ public class LeeHyoRi {
 	public void sing() {}
 	protected void drinkTea() {}
 	private void dance() {}
-	
 }

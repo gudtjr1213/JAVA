@@ -22,6 +22,7 @@ public class FinalStatic {
 	{
 		System.out.println("안녕");
 	}
+	
 }
 // final이 붙으면 override 불가능
 // class에 final이 붙으면 상속 불가능

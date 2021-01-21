@@ -1,7 +1,7 @@
 package com.kita.first.level2.pack1;
 
 public class Singleton {
-	static Singleton sg = null;
+	private static Singleton sg = null;
 	
 	private Singleton() {}
 	

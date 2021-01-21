@@ -19,5 +19,13 @@ public class Test {
 		car1.setColor("파란색");
 		String car1Color = car1.getColor();
 		System.out.println(car1Color);
+		
+		IMax myIMax = new IMax(500, "스페이스 그레이");
+		myIMax.setMemory(800);
+		myIMax.setMemory(600);
+		
+		int myMemory = myIMax.getMemory();
+		System.out.println(myMemory);
+		
 	}
 }
